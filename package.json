@@ -1,21 +1,21 @@
 {
-  "name": "unicornjs-my-first-module",
+  "name": "unicornjs-my-first-service",
   "version": "0.0.1",
-  "description": "unicornJS example module",
+  "description": "unicornJS example service",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lschans/unicornjs-my-first-module.git"
+    "url": "git+https://github.com/lschans/unicornjs-my-first-service.git"
   },
   "author": "Lars van der Schans",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lschans/unicornjs-my-first-module/issues"
+    "url": "https://github.com/lschans/unicornjs-my-first-service/issues"
   },
-  "homepage": "https://github.com/lschans/unicornjs-my-first-module#readme",
+  "homepage": "https://github.com/lschans/unicornjs-my-first-service#readme",
   "dependencies": {
     "unicornjs": "0.0.3"
   }
