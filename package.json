@@ -1,0 +1,22 @@
+{
+  "name": "unicornjs-my-first-module",
+  "version": "0.0.1",
+  "description": "unicornJS example module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lschans/unicornjs-my-first-module.git"
+  },
+  "author": "Lars van der Schans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lschans/unicornjs-my-first-module/issues"
+  },
+  "homepage": "https://github.com/lschans/unicornjs-my-first-module#readme",
+  "dependencies": {
+    "unicornjs": "0.0.3"
+  }
+}
